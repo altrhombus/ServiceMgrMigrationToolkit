@@ -4,7 +4,9 @@
 An automation toolkit to assist with migrating your Service Manager data to a new environment
 
 ## Description
-This toolkit contains several PowerShell scripts to automate the process of exporting and importing your Service Manager data.
+This toolkit contains several PowerShell scripts to automate the process of exporting and importing the following Service Manager data:
+* Incidents (including Activity Log and Work Item Attachments)
+* Service Requests (including Activity Log, Work Item Attachments, and related Review/Manual Activities) 
 
 ### Prerequisites
 #### Dependencies
