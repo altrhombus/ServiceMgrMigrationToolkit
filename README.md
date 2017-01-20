@@ -6,7 +6,7 @@ An automation toolkit to assist with migrating your Service Manager data to a ne
 ## Description
 This toolkit contains several PowerShell scripts to automate the process of exporting and importing the following Service Manager data:
 * Incidents (including Activity Log and Work Item Attachments)
-* Service Requests (including Activity Log, Work Item Attachments, and related Review/Manual Activities) 
+* Service Requests (including Activity Log, Work Item Attachments, and related Review/Manual/Parallel Activities) 
 
 ### Prerequisites
 #### Dependencies
@@ -28,6 +28,11 @@ The current workflow separates the data export/import by Incidents and Service R
 
 ## Notes
 For your reference, here's some sites I found helpful:
-< ... >
+* [http://www.zgc.se/index.php/2014/10/24/service-manager-powershell-examples/](http://www.zgc.se/index.php/2014/10/24/service-manager-powershell-examples/)
+* [http://blogs.litware.se/?p=1369](http://blogs.litware.se/?p=1369)
+* [https://blogs.technet.microsoft.com/servicemanager/2012/04/03/using-data-properties-from-the-parent-work-items-in-activity-email-templates/](https://blogs.technet.microsoft.com/servicemanager/2012/04/03/using-data-properties-from-the-parent-work-items-in-activity-email-templates/)
+* [http://blogs.catapultsystems.com/mdowst/archive/2015/10/26/scsm-powershell-create-work-items/](http://blogs.catapultsystems.com/mdowst/archive/2015/10/26/scsm-powershell-create-work-items/)
+* [https://gallery.technet.microsoft.com/System-Center-Server-7fddf821](https://gallery.technet.microsoft.com/System-Center-Server-7fddf821)
+* [https://gallery.technet.microsoft.com/SCSM-Entity-Explorer-68b86bd2](https://gallery.technet.microsoft.com/SCSM-Entity-Explorer-68b86bd2)
 
 Made with ❤️ in MKE
