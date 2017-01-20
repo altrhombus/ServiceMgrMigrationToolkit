@@ -24,7 +24,7 @@ In it's current form, the toolkit does not migrate your Management Packs. When i
 Some basic sanity checking is performed prior to the import to verify that your lists are populated correctly.
 
 ## Example
-The current workflow separates the data export/import by Incidents, Service Requests, and Configuration Items (in particular, the Cireson Asset Management data).
+The current workflow separates the data export/import by Incidents and Service Requests.
 
 ## Notes
 For your reference, here's some sites I found helpful:
