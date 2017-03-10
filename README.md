@@ -21,6 +21,7 @@ This script has been tested against 2012 R2 (exporting) and 2016 (importing). If
 In it's current form, the toolkit does not migrate your Management Packs. When importing in the new environment, any enum values are matched by name (for now). To prevent import issues, you should do the following:
 * Import any customized Management Packs to your new environment
 * Set up your AD connector and make sure it completes a sync
+
 Some basic sanity checking is performed prior to the import to verify that your lists are populated correctly.
 
 ## Example

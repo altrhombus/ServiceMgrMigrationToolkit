@@ -99,7 +99,7 @@
         - No reviewer/voter information is assigned for Review Activities
 
     Jacob Thornberry
-    @jakertberry
+    @altrhombus
 #>
 
 [CmdletBinding()]

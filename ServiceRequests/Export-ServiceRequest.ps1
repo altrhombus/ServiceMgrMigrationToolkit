@@ -51,7 +51,7 @@
     Tested with System Center Service Manager 2012 R2 and 2016
 
     Jacob Thornberry
-    @jakertberry
+    @altrhombus
     Made with ❤ in MKE
 #>
 

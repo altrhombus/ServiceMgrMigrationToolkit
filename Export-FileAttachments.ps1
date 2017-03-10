@@ -29,7 +29,7 @@
 .NOTES
     Jacob Thornberry
     Adapted from Patrik Sundqvist, http://blogs.litware.se/?p=1369
-    @jakertberry
+    @altrhombus
     Made with ❤ in MKE
 #>
 
